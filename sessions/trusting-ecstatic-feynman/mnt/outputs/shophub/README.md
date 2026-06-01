@@ -1,9 +1,3 @@
-# 🛒 ShopHub — E-Commerce Platform
-
-**Lab Course 2 | UBT | 2025–2026**
-
-## Tech Stack
-
 | Layer | Technology |
 |-------|-----------|
 | Backend | Node.js + Express.js |
@@ -30,12 +24,6 @@
 - ✅ Swagger API Documentation
 - ✅ Code Splitting & Lazy Loading
 
-## Prerequisites
-
-- Node.js >= 18
-- MySQL >= 8.0
-- MongoDB >= 6.0
-- Stripe account (for payments)
 
 ## Installation
 
@@ -97,7 +85,7 @@ npm run dev
 
 Full documentation at: http://localhost:5000/api/docs
 
-## Project Structure
+## Struktura e projektit
 
 ```
 shophub/
@@ -130,11 +118,9 @@ shophub/
 
 | Name | Role |
 |------|------|
-| Student 1 | Backend + Auth |
-| Student 2 | Frontend + State |
-| Student 3 | Database + API |
-| Student 4 | Payments + Export |
+| Ornela Xoxa | Backend + Auth |
+| Gjina Hyseni | Frontend + State Management |
+| Vesa Krasniqi | Database + API + Payments |
 
 ## License
 
-MIT
